@@ -6,7 +6,7 @@ This repository contains the project report and related materials for the Operat
 ## Contents
 - **[Documentation](https://github.com/LongVoBI/Simple-Operating-System/blob/f539f5873f071ed764732bc04222234688f4c457/assignment2_Paging-3.pdf
 )**: Additional documents that provide insights into the design and usage of the operating system.
-- **[Report](https://github.com/LongVoBI/Simple-Operating-System/blob/f539f5873f071ed764732bc04222234688f4c457/OS_Report.pdf)**: Detailed documentation and analysis of the project.
+- 📊**[Report](https://github.com/LongVoBI/Simple-Operating-System/blob/f539f5873f071ed764732bc04222234688f4c457/OS_Report.pdf)**: Detailed documentation and analysis of the project.
 - **[Source Code](https://github.com/LongVoBI/Simple-Operating-System/blob/f539f5873f071ed764732bc04222234688f4c457/ossim_source_code_part2_hk231_paging.zip)**: Implementation of different components of the operating system.
 
 ## Features
